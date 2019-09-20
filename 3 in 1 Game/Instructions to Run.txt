@@ -1,0 +1,7 @@
+                   ///////****Made By Madhav Singh****\\\\\\\
+
+1.Add All the Header files to include directory
+2.Add All the cpp files to bin folder
+3.Compile and Run qna_bnk to Make a question and answer file for KBC
+4.Complie and Run 3in1game
+
